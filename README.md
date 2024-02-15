@@ -1,1 +1,1 @@
-# lms_back
+zing-zang-backend
